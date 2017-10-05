@@ -30,7 +30,6 @@
                 </div>
 
                 <div class="collapse navbar-collapse">
-
                     {{ if .Site.Menus.main }}
                         <ul class="nav navbar-nav">
                             {{ range sort .Site.Menus.main }}
@@ -44,6 +43,11 @@
                             {{ range sort .Site.Menus.icon }}
                                 <li class="navbar-icon"><a href="{{ .URL }}"><i class="fa fa-{{ .Name }}"></i></a></li>
                             {{ end }}
+                              <li class="navbar-icon">
+                                <a href="https://projects.iq.harvard.edu/provenance-at-harvard/home">
+                                  <img src="./img/harvard-logo.png" alt="Smiley face" width="80px">
+                                </a>
+                              </li>
                         </ul>
                     {{ end }}
 
