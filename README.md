@@ -5,7 +5,7 @@
 |Capture| Store    |   Analyze  |
 |-------|----------|------------|
 |[provR](https://github.com/ProvTools/provR)  |[cpl-R](https://github.com/ProvTools/cpl-R)     |[cleanR](https://github.com/ProvTools/cleanR)      |
-|       |[Dataverse](http://dataverse.org) |[encapsulator](https://github.com/ProvTools/encapsulator)|
+|[CamFlow](http://camflow.org)  |[Dataverse](http://dataverse.org) |[encapsulator](https://github.com/ProvTools/encapsulator)|
 |       |          |[provViz](https://github.com/ProvTools/provViz)     |
 
 
