@@ -5,7 +5,7 @@ theme = "minimal"
 
 [params]
     author = "Matthew Lau"
-    description = "Capture and analyze provenance to improve data science"
+    description = "Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science"
     githubUsername = "ProvTools"
     accent = "red"
     showBorder = true
@@ -40,6 +40,7 @@ theme = "minimal"
     url = "/analyses/"
     name = "Analyses"
     weight = 4
+
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
