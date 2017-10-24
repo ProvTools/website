@@ -5,7 +5,9 @@ theme = "minimal"
 
 [params]
     author = "Matthew Lau"
-    description = "Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science Leverage data provenance to improve science"
+
+    description = "Provenance is the essential information about computations captured as they're running<br><br>ProvTools is a software ecosystem that captures, stores and analyzes provenance<br><br>These tools leverage the power of provenance to aid data analysts and scientists"
+
     githubUsername = "ProvTools"
     accent = "red"
     showBorder = true
@@ -16,15 +18,9 @@ theme = "minimal"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
-    url = "/"
+    url = "//"
     name = "ProvTools"
     weight = 1
-
-[[menu.main]]
-    url = "/FAQ/"
-    name = "FAQs"
-    weight = 5
-
 
 [[menu.main]]
     url = "/captures/"
@@ -37,9 +33,21 @@ theme = "minimal"
     weight = 3
 
 [[menu.main]]
-    url = "/analyses/"
-    name = "Analyses"
+    url = "/analyzes/"
+    name = "Analyzes"
     weight = 4
+
+
+[[menu.main]]
+    url = "/FAQ/"
+    name = "FAQs"
+    weight = 5
+
+[[menu.main]]
+    url = "https://github.com/ProvTools/"
+    name = "Contribute"
+    weight = 6
+
 
 
 # Social icons to be shown on the right-hand side of the navigation bar
