@@ -6,7 +6,7 @@ theme = "minimal"
 [params]
     author = "Matthew Lau"
 
-    description = "Provenance is the essential information about computations captured as they're running<br><br>ProvTools is a software ecosystem that captures, stores and analyzes provenance<br><br>These tools leverage the power of provenance to aid data analysts and scientists"
+    description = "Provenance is the essential information about computations captured as they're running<br><br>ProvTools is a software ecosystem that captures, stores and analyzes provenance<br><br>Together, these tools leverage the power of provenance to aid analysts and scientists"
 
     githubUsername = "ProvTools"
     accent = "red"
